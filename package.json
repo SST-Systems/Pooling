@@ -1,0 +1,22 @@
+{
+  "name": "com.sst-systems.pooling",
+  "version": "1.0.1",
+  "displayName": "Pooling",
+  "description": "Lightweight generic object pool for Unity and pure C# projects. Provides Pool<T> for a single type and MultiPool<TKey, TValue> for managing multiple pools under a common key.",
+  "unity": "2021.3",
+  "author": {
+    "name": "SST Systems",
+    "email": "egor.schesterikov@mail.ru",
+    "url": "https://github.com/SST-Systems"
+  },
+  "keywords": [
+    "pooling",
+    "object-pool",
+    "performance",
+    "allocation-free"
+  ],
+  "documentationUrl": "https://github.com/SST-Systems/Pooling/blob/main/README.md",
+  "changelogUrl": "https://github.com/SST-Systems/Pooling/releases",
+  "licensesUrl": "https://github.com/SST-Systems/Pooling/blob/main/LICENSE.md",
+  "dependencies": {}
+}
