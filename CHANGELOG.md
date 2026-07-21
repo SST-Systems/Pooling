@@ -1,5 +1,11 @@
 # Pooling
 
+## 1.0.2 - 21.07.2026
+
+### Changed
+
+- asmdef rename
+
 ## 1.0.1 - 10.07.2026
 
 First public release under **SST Systems**.
