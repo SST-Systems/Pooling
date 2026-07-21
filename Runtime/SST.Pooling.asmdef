@@ -1,6 +1,6 @@
 {
-    "name": "Pooling",
-    "rootNamespace": "Pooling",
+    "name": "SST.Pooling",
+    "rootNamespace": "SST.Pooling",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
